@@ -2,7 +2,7 @@ Algoritmo sin_titulo
 	Escribir "Introduce el primer numero"
     Leer numero1
     Escribir "Introduce el segundo numero"
-    Leer numero1
+    Leer numero2
     //comparamos los dos numeros,
     //si el primero es mayor o igual que el segundo entra
     Si (numero1>=numero2) Entonces
